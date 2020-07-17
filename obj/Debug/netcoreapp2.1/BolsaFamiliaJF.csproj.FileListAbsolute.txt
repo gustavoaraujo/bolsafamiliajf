@@ -1,0 +1,11 @@
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\bin\Debug\netcoreapp2.1\BolsaFamiliaJF.deps.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\bin\Debug\netcoreapp2.1\BolsaFamiliaJF.runtimeconfig.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\bin\Debug\netcoreapp2.1\BolsaFamiliaJF.runtimeconfig.dev.json
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\bin\Debug\netcoreapp2.1\BolsaFamiliaJF.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\bin\Debug\netcoreapp2.1\BolsaFamiliaJF.pdb
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\obj\Debug\netcoreapp2.1\BolsaFamiliaJF.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\obj\Debug\netcoreapp2.1\BolsaFamiliaJF.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\obj\Debug\netcoreapp2.1\BolsaFamiliaJF.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\obj\Debug\netcoreapp2.1\BolsaFamiliaJF.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\obj\Debug\netcoreapp2.1\BolsaFamiliaJF.dll
+C:\Users\Cliente\Documents\Visual Studio 2017\Projects\BolsaFamiliaJF\obj\Debug\netcoreapp2.1\BolsaFamiliaJF.pdb
